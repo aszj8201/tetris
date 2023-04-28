@@ -11,6 +11,9 @@ body{
     height: 100%; 
     overflow: hidden;
 }
+.wrapper{
+    margin-top: 50px;
+}
 .game-text{
     display: flex;
     justify-content: center;
